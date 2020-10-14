@@ -1,4 +1,6 @@
-### Hi there 👋
+
+
+[![Ferhats's github stats](https://github-readme-stats.vercel.app/api?username=ferhat00)](https://github.com/ferhat00/github-readme-stats)
 
 <!--
 **ferhat00/ferhat00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
